@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Bbayy-porto%7D/static/css/main.acffc024.css",
-    "main.js": "/%7Bbayy-porto%7D/static/js/main.94812cfe.js",
-    "static/js/787.28cb0dcd.chunk.js": "/%7Bbayy-porto%7D/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/%7Bbayy-porto%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%7Bbayy-porto%7D/index.html",
-    "main.acffc024.css.map": "/%7Bbayy-porto%7D/static/css/main.acffc024.css.map",
-    "main.94812cfe.js.map": "/%7Bbayy-porto%7D/static/js/main.94812cfe.js.map",
-    "787.28cb0dcd.chunk.js.map": "/%7Bbayy-porto%7D/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/bayy-porto/static/css/main.acffc024.css",
+    "main.js": "/bayy-porto/static/js/main.73a2590e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bayy-porto/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/bayy-porto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bayy-porto/index.html",
+    "main.acffc024.css.map": "/bayy-porto/static/css/main.acffc024.css.map",
+    "main.73a2590e.js.map": "/bayy-porto/static/js/main.73a2590e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bayy-porto/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acffc024.css",
-    "static/js/main.94812cfe.js"
+    "static/js/main.73a2590e.js"
   ]
 }
